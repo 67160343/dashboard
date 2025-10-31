@@ -16,8 +16,8 @@ if (!isset($_SESSION['user_id']) || empty($_SESSION['user_id'])) {
 
 // 2. ตั้งค่าการเชื่อมต่อฐานข้อมูล
 $DB_HOST = 'localhost';
-$DB_USER = 's67160343';
-$DB_PASS = '4U3CFRTZ';
+$DB_USER = 'x';
+$DB_PASS = 'x';
 // **✅ แก้ไข 3:** เปลี่ยนชื่อฐานข้อมูลให้ตรงกับไฟล์ SQL ที่ใช้ (s67160343)
 $DB_NAME = 's67160343'; 
 
